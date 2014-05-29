@@ -1,0 +1,44 @@
+{
+  "name": "slush-gulpfile",
+  "description": "Lightning generation of a gulpfile for a project",
+  "version": "0.1.0",
+  "homepage": "https://github.com/pgilad/slush-gulpfile",
+  "author": {
+    "name": "Gilad Peleg",
+    "email": "giladp007@gmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/pgilad/slush-gulpfile.git"
+  },
+  "bugs": {
+    "url": "https://github.com/pgilad/slush-gulpfile/issues"
+  },
+  "license": "MIT",
+  "main": "slushfile.js",
+  "files": [
+    "slushfile.js",
+    "templates",
+    "LICENSE.md"
+  ],
+  "engines": {
+    "node": ">= 0.10.26",
+    "npm": ">=1.4.3"
+  },
+  "dependencies": {
+    "gulp": "^3.6.2",
+    "gulp-conflict": "^0.1.1",
+    "gulp-install": "^0.1.4",
+    "gulp-template": "^0.1.1",
+    "gulp-util": "^2.2.14",
+    "inquirer": "^0.5.1"
+  },
+  "keywords": [
+    "slushgenerator",
+    "slush",
+    "gulp",
+    "gulpfile",
+    "generator",
+    "yeoman"
+  ]
+}
