@@ -26,11 +26,11 @@
     "npm": ">=1.4.3"
   },
   "dependencies": {
-    "gulp": "^3.6.2",
+    "gulp": "^3.8.6",
     "gulp-conflict": "^0.1.1",
     "gulp-install": "^0.1.8",
     "gulp-template": "^0.1.1",
-    "gulp-util": "^2.2.14",
+    "gulp-util": "^2.2.20",
     "inquirer": "^0.5.1"
   },
   "keywords": [
