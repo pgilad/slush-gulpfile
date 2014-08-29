@@ -26,12 +26,12 @@
     "npm": ">=1.4.3"
   },
   "dependencies": {
-    "gulp": "^3.8.6",
-    "gulp-conflict": "^0.1.1",
-    "gulp-install": "^0.1.8",
+    "gulp": "^3.8.7",
+    "gulp-conflict": "^0.2.0",
+    "gulp-install": "^0.2.0",
     "gulp-template": "^1.0.0",
-    "gulp-util": "^3.0.0",
-    "inquirer": "^0.5.1"
+    "gulp-util": "^3.0.1",
+    "inquirer": "^0.6.0"
   },
   "keywords": [
     "slushgenerator",
