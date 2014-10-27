@@ -49,7 +49,7 @@ $ cd my-cool-scaffold && slush gulpfile
 
 ## Options
 
-So many, just soo many...
+So many, just so many...
 
 ## Getting To Know Slush
 
@@ -63,6 +63,4 @@ To find out more about Slush, check out the [documentation](https://github.com/s
 
 ## License
 
-The MIT License
-
-Copyright (©) 2014, Gilad Peleg
+MIT @[Gilad Peleg](http://giladpeleg.com)
