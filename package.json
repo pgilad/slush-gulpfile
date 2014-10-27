@@ -1,37 +1,37 @@
 {
-    "name": "slush-gulpfile",
-    "version": "0.4.1",
-    "description": "Lightning generation of a gulpfile for a project",
-    "repository": "pgilad/slush-gulpfile",
-    "license": "MIT",
-    "author": {
-        "name": "Gilad Peleg",
-        "email": "giladp007@gmail.com",
-        "url": "http://giladpeleg.com"
-    },
-    "main": "slushfile.js",
-    "files": [
-        "slushfile.js",
-        "templates"
-    ],
-    "engines": {
-        "node": ">= 0.10.26",
-        "npm": ">=1.4.3"
-    },
-    "keywords": [
-        "slushgenerator",
-        "slush",
-        "gulp",
-        "gulpfile",
-        "generator",
-        "yeoman"
-    ],
-    "dependencies": {
-        "gulp": "^3.8.9",
-        "gulp-conflict": "^0.2.0",
-        "gulp-install": "^0.2.0",
-        "gulp-template": "^1.1.1",
-        "gulp-util": "^3.0.1",
-        "inquirer": "^0.8.0"
-    }
+  "name": "slush-gulpfile",
+  "version": "1.0.0",
+  "description": "Lightning generation of a gulpfile for a project",
+  "repository": "pgilad/slush-gulpfile",
+  "license": "MIT",
+  "author": {
+    "name": "Gilad Peleg",
+    "email": "giladp007@gmail.com",
+    "url": "http://giladpeleg.com"
+  },
+  "main": "slushfile.js",
+  "files": [
+    "slushfile.js",
+    "templates"
+  ],
+  "engines": {
+    "node": ">= 0.10.26",
+    "npm": ">=1.4.3"
+  },
+  "keywords": [
+    "slushgenerator",
+    "slush",
+    "gulp",
+    "gulpfile",
+    "generator",
+    "yeoman"
+  ],
+  "dependencies": {
+    "gulp": "^3.8.9",
+    "gulp-conflict": "^0.2.0",
+    "gulp-install": "^0.2.0",
+    "gulp-template": "^1.1.1",
+    "gulp-util": "^3.0.1",
+    "inquirer": "^0.8.0"
+  }
 }
