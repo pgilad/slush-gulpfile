@@ -1,6 +1,6 @@
 {
   "name": "slush-gulpfile",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Lightning generation of a gulpfile for a project",
   "repository": "pgilad/slush-gulpfile",
   "license": "MIT",
