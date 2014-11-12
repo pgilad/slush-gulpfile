@@ -27,7 +27,7 @@
     "yeoman"
   ],
   "dependencies": {
-    "gulp": "^3.8.9",
+    "gulp": "^3.8.10",
     "gulp-conflict": "^0.2.0",
     "gulp-install": "^0.2.0",
     "gulp-template": "^1.1.1",
